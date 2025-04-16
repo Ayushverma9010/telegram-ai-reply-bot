@@ -1,6 +1,3 @@
-# Telegram AI Auto-Reply Bot (Powered by Ollama)
-
-This project is a Telegram auto-reply bot that uses locally hosted AI models through Ollama. It works with your **personal Telegram account** and responds to incoming messages using large language models such as LLaMA 3, Mistral, or others that can run offline on your machine.
 
 # Telegram AI Auto-Reply Bot (Powered by Ollama)
 
